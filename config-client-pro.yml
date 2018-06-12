@@ -1,9 +1,1 @@
-data:
-[{
-"id": 1,
-"age": 22,
-"name": "桑建政",
-"role": "新湛三街136号-17-1",
-"email": "kxtq4vl@yeah.net",
-"phone": "15500906942"
-}]
+data:[{"id":1,"age":22,"name":"桑建政","role":"新湛三街136号-17-1","email":"kxtq4vl@yeah.net","phone":"15500906942"},{"id":2,"age":35,"name":"文彪承","role":"牟平街47号-5-4","email":"eef1f5cvw@163.com","phone":"13605118325"},{"id":3,"age":20,"name":"郏榕壮","role":"咸阳广场98号-3-9","email":"qotj20y@qq.com","phone":"15903900814"},{"id":4,"age":23,"name":"鄢超辰","role":"平定路134号-5-3","email":"1elm324b@ask.com","phone":"15706274643"},{"id":5,"age":36,"name":"孙秋眉","role":"长汀街38号-11-7","email":"lny5y29@hotmail.com","phone":"13900852202"},{"id":6,"age":31,"name":"百达宁","role":"浙江路93号-18-1","email":"88xja7gs@hotmail.com","phone":"15107232275"},{"id":7,"age":26,"name":"拔琳","role":"湖南路36号-19-9","email":"an75do6u@0355.net","phone":"13000510475"},{"id":8,"age":30,"name":"相磊","role":"西陵峡二街146号-5-1","email":"5lreth@126.com","phone":"15008573085"}]
